@@ -14,6 +14,7 @@ I used a dataset with 6 million+ records and built models like Logistic Regressi
 - Final Model: Random Forest
 
 ## Best Model Performance
+- Random Forest
 - Precision (Fraud): 98%
 - Recall (Fraud): 79%
 - F1-Score: 87%
